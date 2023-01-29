@@ -1,4 +1,4 @@
-Hello, Misha!
+Hello, I am  Misha!
 
 I develop electronics device and I program for hardware section. I started study electronics, when I was small. 
 
