@@ -24,8 +24,6 @@ I am studing now AVR microcontroller programming register, instead of Arduino Co
 
 I design electronics circuits and PCBs via DipTrace, EasyEda (Online editor) and Autodesk Eagle (for university). 
 
-I'll start to learn programm C# langauge if I have possible due time and strength.
-
 ## Favorites (things and hardwares) and having tools
 
 My favorite series microcontrollers are atmega328P, stm32F4, stm32F0.
