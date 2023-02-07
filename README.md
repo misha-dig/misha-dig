@@ -1,10 +1,10 @@
-## About my profile
+# About my profile
 
 Hello! 
 
 I am  Misha!
 
-# General 
+## General 
 
 I develop electronics device and I program for hardware section. I started study electronics, when I was small.
 
@@ -14,7 +14,7 @@ I also doing drone project PiElectricsEagles and ElectricsEagle. Repository: htt
 
 I study in University of Kent. 
 
-# Skills
+## Skills
 
 I write programm on C, C++ and Rust programming language in my computer journey. 
 
@@ -26,7 +26,7 @@ I design electronics circuits and PCBs via DipTrace, EasyEda (Online editor) and
 
 I'll start to learn programm C# langauge if I have possible due time and strength.
 
-# Favorites (things and hardwares) and having tools
+## Favorites (things and hardwares) and having tools
 
 My favorite series microcontrollers are atmega328P, stm32F4, stm32F0.
 My favorite UART chips are FT232, CP2101. 
@@ -36,6 +36,6 @@ My favorite operation system is Linux Mint 19.3 Tricia and Debian 11 "bullseye".
 I have microcontroller debugger/programmer: ST-LINK/V2 debug, USB AVRISP XPII programmer. 
 I have evaluation development tools: Arduino UNO, Arduino Mega, NUCLEO-F030R8, NUCLEO-F439ZI, Raspberry Pi 1 Model B+, Atmega328p xplained mini
 
-# Important information
+## Important information
 
 Stop war in Ukraine and please help and donate to Ukraine now! Glory to Ukraine!!! Slava Ukraini!!! Stop existing Putin's regime immediately.
