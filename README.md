@@ -1,10 +1,10 @@
 # About my profile
 
+## General 
+
 Hello! 
 
 I am  Misha!
-
-## General 
 
 I develop electronics device and I program for hardware section. I started study electronics, when I was small.
 
