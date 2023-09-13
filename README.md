@@ -2,9 +2,7 @@
 
 ## General 
 
-Hello! 
-
-I am  Misha!
+Hello, my name is Misha Zaslavskis! I am student of Electronics and Computer Engineering University of Kent.
 
 I develop electronics device and I program for hardware section. I started study electronics, when I was small.
 
@@ -24,7 +22,7 @@ I am studing now AVR microcontroller programming register, instead of Arduino Co
 
 I design electronics circuits and PCBs via DipTrace, EasyEda (Online editor) and Autodesk Eagle (for university). 
 
-I able to drive by car, which I passed my driving exam in June 2023.
+I have drive license B catergory.
 
 ## Favorites (things and hardwares) and having tools
 
