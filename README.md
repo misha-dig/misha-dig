@@ -26,5 +26,7 @@ I am looking for roles in Junior Electronics Engineering, PCB design, firmware a
 * ***Driving B Category Vechicle*** - I can drive vehicles with more than two years of experience.
 
 Favorite MCU: RP2040, RP2350, STM32L4, STM32C0, STM32F0, STM32F4
+
 Favorite OS: Linux Mint, Debian Bullseye
+
 Laptop: Asus ExpertBook B9403CVAR 
